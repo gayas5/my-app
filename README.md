@@ -1,7 +1,3 @@
-Excellent choice 👍
-Below is a **complete DevOps-style evolution** of your project, starting from **Maven Java app → Web App → Docker → CI/CD → Jenkins → Kubernetes**.
-
-I’ll keep it **step-by-step, command-by-command**, exactly how interviewers and real projects expect.
 
 ---
 
